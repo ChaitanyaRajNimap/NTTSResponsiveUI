@@ -94,7 +94,8 @@ const styles = StyleSheet.create({
     borderWidth: 2,
   },
   poster: {
-    flex: 1,
+    height: '100%',
+    width: '100%',
   },
   articleTextConatiner: {},
   articleText: {
